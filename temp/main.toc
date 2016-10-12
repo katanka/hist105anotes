@@ -1,0 +1,19 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Background}{2}{section.2}
+\contentsline {section}{\numberline {3}Bronze Age}{3}{section.3}
+\contentsline {section}{\numberline {4}Iron Age}{3}{section.4}
+\contentsline {section}{\numberline {5}The 8th Century}{3}{section.5}
+\contentsline {section}{\numberline {6}Homer and Hesiod}{3}{section.6}
+\contentsline {section}{\numberline {7}Greeks in the Eastern Mediterranean}{3}{section.7}
+\contentsline {section}{\numberline {8}Greeks in the Western Mediterranean}{3}{section.8}
+\contentsline {section}{\numberline {9}Greek Colonization}{3}{section.9}
+\contentsline {section}{\numberline {10}Hoplites and Warfare}{3}{section.10}
+\contentsline {section}{\numberline {11}Sparta}{3}{section.11}
+\contentsline {section}{\numberline {12}Written Law and Lawgivers}{3}{section.12}
+\contentsline {section}{\numberline {13}Alkaios, Theognis, and 7th Century Society}{3}{section.13}
+\contentsline {section}{\numberline {14}Tyranny}{3}{section.14}
+\contentsline {subsection}{\numberline {14.1}Tyrants in the 7th Century}{3}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Tyranny, Gods, and the Polis}{3}{subsection.14.2}
+\contentsline {section}{\numberline {15}Solon}{3}{section.15}
+\contentsline {section}{\numberline {16}The Symposium and the City}{3}{section.16}
